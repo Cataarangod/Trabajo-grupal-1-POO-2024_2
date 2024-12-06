@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Ejercicio12 {
+public class EjercicioResuelto12 {
 	public static void main(String[] args){
         System.out.println("""
             Determinar la cantidad de dinero recibida por un trabajador por concepto de las horas 
